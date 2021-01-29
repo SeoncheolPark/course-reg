@@ -3,7 +3,34 @@ output_dir: "docs"
 navbar:
   title: "2021 회귀분석"
   left:
-    - text: "Home"
+    - text: "홈"
       href: index.html
-    - text: "About"
+    - text: "강의계획서"
       href: about.html
+    - text: "강의자료"
+      menu:
+        - text: "서론"
+          href: about.html
+        - text: "단순 선형회귀분석"
+          href: about.html
+        - text: "다중 선형회귀분석"
+          href: about.html
+        - text: "회귀진단"
+          href: about.html
+        - text: "모형비교"
+          href: about.html
+        - text: "변수선택"
+          href: about.html
+        - text: "가변수 회귀모형"
+          href: about.html
+        - text: "일반화 가중회귀모형"
+          href: about.html
+        - text: "능형회귀와 라쏘"
+          href: about.html
+    - text: "과제"
+      href: about.html
+    - text: "시험"
+      href: about.html
+  right:
+    - icon: fa-home
+      href: https://seoncheolpark.github.io
