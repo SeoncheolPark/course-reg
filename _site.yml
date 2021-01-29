@@ -1,7 +1,7 @@
 name: "Regression"
 output_dir: "docs"
 navbar:
-  title: "2021 Regression"
+  title: "2021 회귀분석"
   left:
     - text: "Home"
       href: index.html
