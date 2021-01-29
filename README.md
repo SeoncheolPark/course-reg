@@ -1,2 +1,2 @@
 # course-reg
-2021 regression course
+2021 Regression Course
