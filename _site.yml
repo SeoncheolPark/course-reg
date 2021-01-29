@@ -1,6 +1,7 @@
-name: "my-website"
+name: "Regression"
+output_dir: "docs"
 navbar:
-  title: "My Website"
+  title: "2021 Regression"
   left:
     - text: "Home"
       href: index.html
